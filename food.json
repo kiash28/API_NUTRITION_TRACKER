@@ -1,0 +1,419 @@
+[
+    {
+      "name": "Chicken Curry",
+      "calories": 110,
+      "protein": 15,
+      "carbohydrates": 5,
+      "fat": 4,
+      "fiber": 2
+    },
+    {
+      "name": "Grilled Salmon",
+      "calories": 200,
+      "protein": 22,
+      "carbohydrates": 0,
+      "fat": 12,
+      "fiber": 0
+    },
+    {
+      "name": "Pasta Salad",
+      "calories": 160,
+      "protein": 6,
+      "carbohydrates": 30,
+      "fat": 3,
+      "fiber": 2
+    },
+    {
+      "name": "Vegetable Stir-fry",
+      "calories": 120,
+      "protein": 4,
+      "carbohydrates": 15,
+      "fat": 5,
+      "fiber": 4
+    },
+    {
+      "name": "Beef Burger",
+      "calories": 250,
+      "protein": 20,
+      "carbohydrates": 10,
+      "fat": 18,
+      "fiber": 1
+    },
+    {
+      "name": "Fruit Smoothie",
+      "calories": 120,
+      "protein": 2,
+      "carbohydrates": 25,
+      "fat": 1,
+      "fiber": 3
+    },
+    {
+      "name": "Greek Salad",
+      "calories": 180,
+      "protein": 8,
+      "carbohydrates": 10,
+      "fat": 12,
+      "fiber": 5
+    },
+    {
+      "name": "Oatmeal",
+      "calories": 150,
+      "protein": 5,
+      "carbohydrates": 25,
+      "fat": 2,
+      "fiber": 4
+    },
+    {
+      "name": "Roast Beef Sandwich",
+      "calories": 300,
+      "protein": 18,
+      "carbohydrates": 30,
+      "fat": 12,
+      "fiber": 3
+    },
+    {
+      "name": "Yogurt Parfait",
+      "calories": 180,
+      "protein": 10,
+      "carbohydrates": 20,
+      "fat": 7,
+      "fiber": 2
+    },
+    {
+      "name": "Steamed Vegetables",
+      "calories": 70,
+      "protein": 3,
+      "carbohydrates": 12,
+      "fat": 1,
+      "fiber": 5
+    },
+    {
+      "name": "Tuna Salad",
+      "calories": 180,
+      "protein": 20,
+      "carbohydrates": 5,
+      "fat": 8,
+      "fiber": 2
+    },
+    {
+      "name": "Fried Rice",
+      "calories": 210,
+      "protein": 6,
+      "carbohydrates": 40,
+      "fat": 4,
+      "fiber": 2
+    },
+    {
+      "name": "Cheese Pizza",
+      "calories": 280,
+      "protein": 12,
+      "carbohydrates": 30,
+      "fat": 14,
+      "fiber": 1
+    },
+    {
+      "name": "Egg Salad Sandwich",
+      "calories": 230,
+      "protein": 15,
+      "carbohydrates": 20,
+      "fat": 10,
+      "fiber": 3
+    },
+    {
+      "name": "Bean Burrito",
+      "calories": 220,
+      "protein": 10,
+      "carbohydrates": 35,
+      "fat": 6,
+      "fiber": 7
+    },
+    {
+      "name": "Hummus with Pita",
+      "calories": 160,
+      "protein": 6,
+      "carbohydrates": 20,
+      "fat": 8,
+      "fiber": 4
+    },
+    {
+      "name": "Chicken Caesar Salad",
+      "calories": 190,
+      "protein": 18,
+      "carbohydrates": 10,
+      "fat": 8,
+      "fiber": 3
+    },
+    {
+      "name": "Spaghetti Bolognese",
+      "calories": 280,
+      "protein": 18,
+      "carbohydrates": 35,
+      "fat": 10,
+      "fiber": 3
+    },
+    {
+      "name": "Quinoa Salad",
+      "calories": 200,
+      "protein": 7,
+      "carbohydrates": 30,
+      "fat": 6,
+      "fiber": 5
+    },
+    {
+      "name": "Chicken Wrap",
+      "calories": 230,
+      "protein": 12,
+      "carbohydrates": 25,
+      "fat": 9,
+      "fiber": 2
+    },
+    {
+      "name": "Grilled Cheese Sandwich",
+      "calories": 320,
+      "protein": 15,
+      "carbohydrates": 25,
+      "fat": 18,
+      "fiber": 1
+    },
+    {
+      "name": "Fried Chicken",
+      "calories": 280,
+      "protein": 20,
+      "carbohydrates": 15,
+      "fat": 16,
+      "fiber": 1
+    },
+    {
+      "name": "Broccoli Soup",
+      "calories": 120,
+      "protein": 4,
+      "carbohydrates": 15,
+      "fat": 5,
+      "fiber": 4
+    },
+    {
+      "name": "Mango Smoothie",
+      "calories": 140,
+      "protein": 2,
+      "carbohydrates": 30,
+      "fat": 1,
+      "fiber": 3
+    },
+    {
+      "name": "Tofu Stir-fry",
+      "calories": 150,
+      "protein": 10,
+      "carbohydrates": 20,
+      "fat": 7,
+      "fiber": 2
+    },
+    {
+      "name": "Beef Stew",
+      "calories": 220,
+      "protein": 20,
+      "carbohydrates": 15,
+      "fat": 10,
+      "fiber": 3
+    },
+    {
+      "name": "Chicken Salad",
+      "calories": 170,
+      "protein": 15,
+      "carbohydrates": 10,
+      "fat": 8,
+      "fiber": 2
+    },
+    {
+      "name": "Vegetable Soup",
+      "calories": 110,
+      "protein": 3,
+      "carbohydrates": 15,
+      "fat": 2,
+      "fiber": 5
+    },
+    {
+      "name": "Turkey Sandwich",
+      "calories": 250,
+      "protein": 18,
+      "carbohydrates": 30,
+      "fat": 12,
+      "fiber": 3
+    },
+    {
+      "name": "Mixed Berry Smoothie",
+      "calories": 130,
+      "protein": 2,
+      "carbohydrates": 28,
+      "fat": 1,
+      "fiber": 4
+    },
+    {
+      "name": "Salmon Salad",
+      "calories": 190,
+      "protein": 18,
+      "carbohydrates": 10,
+      "fat": 8,
+      "fiber": 3
+    },
+    {
+      "name": "Taco Salad",
+      "calories": 240,
+      "protein": 12,
+      "carbohydrates": 20,
+      "fat": 14,
+      "fiber": 6
+    },
+    {
+      "name": "Egg Fried Rice",
+      "calories": 230,
+      "protein": 8,
+      "carbohydrates": 35,
+      "fat": 6,
+      "fiber": 2
+    },
+    {
+      "name": "Caesar Salad",
+      "calories": 200,
+      "protein": 10,
+      "carbohydrates": 15,
+      "fat": 12,
+      "fiber": 3
+    },
+    {
+      "name": "Vegetable Stir-fry",
+      "calories": 130,
+      "protein": 5,
+      "carbohydrates": 20,
+      "fat": 4,
+      "fiber": 3
+    },
+    {
+      "name": "Shrimp Pasta",
+      "calories": 260,
+      "protein": 18,
+      "carbohydrates": 30,
+      "fat": 10,
+      "fiber": 2
+    },
+    {
+      "name": "Fajita Wrap",
+      "calories": 220,
+      "protein": 14,
+      "carbohydrates": 25,
+      "fat": 9,
+      "fiber": 3
+    },
+    {
+      "name": "Lentil Soup",
+      "calories": 150,
+      "protein": 8,
+      "carbohydrates": 20,
+      "fat": 3,
+      "fiber": 7
+    },
+    {
+      "name": "Potato Salad",
+      "calories": 180,
+      "protein": 5,
+      "carbohydrates": 25,
+      "fat": 10,
+      "fiber": 3
+    },
+    {
+      "name": "Beef Stir-fry",
+      "calories": 240,
+      "protein": 18,
+      "carbohydrates": 20,
+      "fat": 12,
+      "fiber": 2
+    },
+    {
+      "name": "Cobb Salad",
+      "calories": 220,
+      "protein": 15,
+      "carbohydrates": 10,
+      "fat": 14,
+      "fiber": 4
+    },
+    {
+      "name": "Peanut Butter Sandwich",
+      "calories": 290,
+      "protein": 10,
+      "carbohydrates": 30,
+      "fat": 15,
+      "fiber": 3
+    },
+    {
+      "name": "Fried Shrimp",
+      "calories": 280,
+      "protein": 22,
+      "carbohydrates": 18,
+      "fat": 16,
+      "fiber": 1
+    },
+    {
+      "name": "Tomato Soup",
+      "calories": 100,
+      "protein": 2,
+      "carbohydrates": 15,
+      "fat": 3,
+      "fiber": 4
+    },
+    {
+      "name": "Tuna Sandwich",
+      "calories": 230,
+      "protein": 20,
+      "carbohydrates": 25,
+      "fat": 8,
+      "fiber": 2
+    },
+    {
+      "name": "Mixed Vegetable Salad",
+      "calories": 140,
+      "protein": 6,
+      "carbohydrates": 15,
+      "fat": 8,
+      "fiber": 5
+    },
+    {
+      "name": "Lemon Chicken",
+      "calories": 180,
+      "protein": 20,
+      "carbohydrates": 10,
+      "fat": 6,
+      "fiber": 2
+    },
+    {
+      "name": "Ham and Cheese Sandwich",
+      "calories": 280,
+      "protein": 15,
+      "carbohydrates": 30,
+      "fat": 14,
+      "fiber": 2
+    },
+    {
+      "name": "Bean Salad",
+      "calories": 160,
+      "protein": 8,
+      "carbohydrates": 20,
+      "fat": 7,
+      "fiber": 6
+    },
+    {
+      "name": "Chicken Noodle Soup",
+      "calories": 150,
+      "protein": 12,
+      "carbohydrates": 15,
+      "fat": 5,
+      "fiber": 3
+    },
+    {
+      "name": "Hamburger",
+      "calories": 290,
+      "protein": 18,
+      "carbohydrates": 20,
+      "fat": 16,
+      "fiber": 2
+    }
+  ]
+  
